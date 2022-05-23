@@ -28,3 +28,6 @@
 [submodule "detect-pressed-key"]
 	path = detect-pressed-key
 	url = https://github.com/valeshgopal/detect-pressed-key.git
+[submodule "input-label-animation"]
+	path = input-label-animation
+	url = https://github.com/valeshgopal/input-label-animation.git
