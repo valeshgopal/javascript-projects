@@ -1,3 +1,6 @@
 [submodule "quotes-app"]
 	path = quotes-app
 	url = https://github.com/valeshgopal/quotes-app.git
+[submodule "slider-bgcolor"]
+	path = slider-bgcolor
+	url = https://github.com/valeshgopal/slider-bgcolor.git
