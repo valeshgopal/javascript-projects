@@ -25,3 +25,6 @@
 [submodule "random-image-feed"]
 	path = random-image-feed
 	url = https://github.com/valeshgopal/random-image-feed.git
+[submodule "detect-pressed-key"]
+	path = detect-pressed-key
+	url = https://github.com/valeshgopal/detect-pressed-key.git
