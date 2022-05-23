@@ -13,3 +13,6 @@
 [submodule "guess-my-number"]
 	path = guess-my-number
 	url = https://github.com/valeshgopal/guess-my-number.git
+[submodule "progress-steps"]
+	path = progress-steps
+	url = https://github.com/valeshgopal/progress-steps.git
