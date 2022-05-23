@@ -16,3 +16,6 @@
 [submodule "progress-steps"]
 	path = progress-steps
 	url = https://github.com/valeshgopal/progress-steps.git
+[submodule "expanding-cards"]
+	path = expanding-cards
+	url = https://github.com/valeshgopal/expanding-cards.git
