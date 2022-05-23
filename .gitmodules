@@ -10,3 +10,6 @@
 [submodule "faq-accordion"]
 	path = faq-accordion
 	url = https://github.com/valeshgopal/faq-accordion.git
+[submodule "guess-my-number"]
+	path = guess-my-number
+	url = https://github.com/valeshgopal/guess-my-number.git
