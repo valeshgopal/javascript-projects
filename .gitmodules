@@ -34,3 +34,6 @@
 [submodule "find-your-location"]
 	path = find-your-location
 	url = https://github.com/valeshgopal/find-your-location.git
+[submodule "text-to-speech-converter"]
+	path = text-to-speech-converter
+	url = https://github.com/valeshgopal/text-to-speech-converter.git
