@@ -31,3 +31,6 @@
 [submodule "input-label-animation"]
 	path = input-label-animation
 	url = https://github.com/valeshgopal/input-label-animation.git
+[submodule "find-your-location"]
+	path = find-your-location
+	url = https://github.com/valeshgopal/find-your-location.git
