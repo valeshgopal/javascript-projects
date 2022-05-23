@@ -40,3 +40,6 @@
 [submodule "circular-progress-bar"]
 	path = circular-progress-bar
 	url = https://github.com/valeshgopal/circular-progress-bar.git
+[submodule "draggable-div"]
+	path = draggable-div
+	url = https://github.com/valeshgopal/draggable-div.git
