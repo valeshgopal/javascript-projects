@@ -1,0 +1,3 @@
+[submodule "quotes-app"]
+	path = quotes-app
+	url = https://github.com/valeshgopal/quotes-app.git
