@@ -22,3 +22,6 @@
 [submodule "hover-board"]
 	path = hover-board
 	url = https://github.com/valeshgopal/hover-board.git
+[submodule "random-image-feed"]
+	path = random-image-feed
+	url = https://github.com/valeshgopal/random-image-feed.git
