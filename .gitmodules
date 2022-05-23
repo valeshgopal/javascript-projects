@@ -37,3 +37,6 @@
 [submodule "text-to-speech-converter"]
 	path = text-to-speech-converter
 	url = https://github.com/valeshgopal/text-to-speech-converter.git
+[submodule "circular-progress-bar"]
+	path = circular-progress-bar
+	url = https://github.com/valeshgopal/circular-progress-bar.git
