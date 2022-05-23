@@ -7,3 +7,6 @@
 [submodule "newyear-countdown-timer"]
 	path = newyear-countdown-timer
 	url = https://github.com/valeshgopal/newyear-countdown-timer.git
+[submodule "faq-accordion"]
+	path = faq-accordion
+	url = https://github.com/valeshgopal/faq-accordion.git
