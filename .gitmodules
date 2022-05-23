@@ -4,3 +4,6 @@
 [submodule "slider-bgcolor"]
 	path = slider-bgcolor
 	url = https://github.com/valeshgopal/slider-bgcolor.git
+[submodule "newyear-countdown-timer"]
+	path = newyear-countdown-timer
+	url = https://github.com/valeshgopal/newyear-countdown-timer.git
