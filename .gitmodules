@@ -19,3 +19,6 @@
 [submodule "expanding-cards"]
 	path = expanding-cards
 	url = https://github.com/valeshgopal/expanding-cards.git
+[submodule "hover-board"]
+	path = hover-board
+	url = https://github.com/valeshgopal/hover-board.git
